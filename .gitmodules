@@ -1,0 +1,3 @@
+[submodule "gym/envs/own/Gym-Maretial-Dym-Calibration"]
+	path = gym/envs/own/Gym-Maretial-Dym-Calibration
+	url = git@github.com:drmateo/Gym-Maretial-Dym-Calibration.git
